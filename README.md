@@ -19,7 +19,7 @@ I'm a passionate web developer with a love for building creative and functional 
 -   🌱 I’m currently learning **Next.js** and **TypeScript**.
 -   👯 I’m looking to collaborate on interesting open-source web projects.
 -   🤔 I’m looking for help with advanced state management techniques.
--   📫 How to reach me: **[YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)**
+-   📫 How to reach me: **[YOUR_EMAIL@gmail.com](mailto:samruddhshubhadarshi@gmail.com)**
 -   ⚡ Fun fact: I believe a good UI can make even the most mundane tasks enjoyable.
 
 ---
@@ -77,11 +77,8 @@ Here are some of the technologies I love to work with:
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/samruddh-shubha-darshi-4a2537291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
