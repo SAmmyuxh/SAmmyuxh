@@ -84,3 +84,4 @@ Here are some of the technologies I love to work with:
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
 </p>
+[![An image of @sammyuxh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammyuxh)](https://holopin.io/@sammyuxh)
